@@ -2,7 +2,7 @@
 
 This repository serves as a learning space for understanding Git version control system.
 
-Purpose
+## Purpose
 The primary purpose of this repository is to:
 
 Learn the basics of Git.
