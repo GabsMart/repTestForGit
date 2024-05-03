@@ -1,6 +1,6 @@
 # repTestForGit
 
-This repository serves as a learning space for understanding Git version control system.
+This repository serves as a learning space for understanding Git version control system. Main Branch
 
 ## Purpose
 The primary purpose of this repository is to:
